@@ -1,1 +1,6 @@
-{"version":"1.5","notes":"System improvements all around, plus 12 new themes — optimized to stay light and smooth. More features coming soon.","apk":"https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.5/Bitify-1.5-arm64.apk"}
+{
+    "platform":  "android",
+    "version":  "1.6",
+    "notes":  "Create AI playlists from a mood or prompt and match songs on YouTube Music (bring your own AI provider/key). New listening streaks and a global listening-time leaderboard, with profiles and listening stats synced across reinstalls. Listen Together, account setup and app UI improvements.",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.6/Bitify-1.6.apk"
+}
