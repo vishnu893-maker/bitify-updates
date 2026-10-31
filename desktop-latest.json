@@ -1,0 +1,6 @@
+{
+    "platform":  "desktop",
+    "version":  "1.6",
+    "notes":  "New listening streaks and a global listening-time leaderboard, with account-linked listening stats that persist across reinstalls. Improved profiles, Listen Together, in-app updates and desktop UI.",
+    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.6/Bitify-1.6-windows-x64-setup.exe"
+}
