@@ -2,7 +2,7 @@
     "platform":  "android",
     "version":  "1.7.1",
     "notes":  "A smoother, reliable update.\n\n- In-app update fixed: the confirmation screen now appears and the installation completes.\n- Brand-new splash screen: matches your theme colour, no more white flash, and a much faster cold start.\n- New bottom navigation bar, plus a redesigned Settings screen with search.\n- Text size: scale the app\u0027s text up or down to what feels comfortable.\n- Performance mode for low-end devices: smoother scrolling and lighter on memory.\n- Listening streaks with a Streak Saver popup that shows your real streak.\n- Refreshed launcher icon.\n- Updates are now much smaller: only the changed part of the app is downloaded.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.1/Bitify-1.7.1-arm64.apk",
-    "apkSha256":  "38e2bb06847a8b845a77e267427960da06dc37b75061b30f72dfb7b02fecfbcd",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.1/Bitify-1.7.1.apk",
+    "apkSha256":  "fc910ed32d1171060971efd7676ffdf8ddd7c15f85bd80988004438e1617dab9",
     "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.1"
 }
