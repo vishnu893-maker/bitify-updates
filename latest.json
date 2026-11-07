@@ -1,8 +1,17 @@
 {
     "platform":  "android",
-    "version":  "1.7.1",
-    "notes":  "A smoother, reliable update.\n\n- In-app update fixed: the confirmation screen now appears and the installation completes.\n- Brand-new splash screen: matches your theme colour, no more white flash, and a much faster cold start.\n- New bottom navigation bar, plus a redesigned Settings screen with search.\n- Text size: scale the app\u0027s text up or down to what feels comfortable.\n- Performance mode for low-end devices: smoother scrolling and lighter on memory.\n- Listening streaks with a Streak Saver popup that shows your real streak.\n- Refreshed launcher icon.\n- Updates are now much smaller: only the changed part of the app is downloaded.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.1/Bitify-1.7.1.apk",
-    "apkSha256":  "fc910ed32d1171060971efd7676ffdf8ddd7c15f85bd80988004438e1617dab9",
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.1"
+    "version":  "1.7.2",
+    "notes":  "Diwali special: an animated greeting card, from 7 to 14 November only.\n\n- Listening streaks and total listening minutes now sync across your phone and your PC on the same Google account.\n- New About \u0026 legal section in Settings, with the full Privacy Policy, Terms \u0026 Conditions and Security pages.\n- Smaller, smoother updates.",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.2/Bitify-1.7.2.apk",
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.2",
+    "apkSha256":  "826128f65a77c51cf36f41e4131f34b2279c9c49ed1de175f94ac21f79f3d364",
+    "patches":  [
+                    {
+                        "from":  "1.7.1",
+                        "abi":  null,
+                        "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.2/Bitify-1.7.1-to-1.7.2.bsdiff",
+                        "size":  11615170,
+                        "sha256":  "0eee9b73d6bf5b07b3cd4de9a0d90b34719ccb17d9925d115fae181aa53a7754"
+                    }
+                ]
 }
