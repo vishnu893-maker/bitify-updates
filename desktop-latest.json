@@ -1,6 +1,6 @@
 {
     "platform":  "desktop",
-    "version":  "1.7.3",
-    "notes":  "Bitify 1.7.3\n\n- Brand new setup wizard: choose the install folder, pick features, and read/accept Terms \u0026 Conditions during install.\n- Update download hardened: live progress, always-visible Cancel, Retry after failures, and Check for updates in Settings \u003e About \u0026 legal.\n- More memory for the installer download (heap 512 MB -\u003e 2 GB).",
-    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.3/Bitify-1.7.3-windows-x64-setup.exe"
+    "version":  "1.7.4",
+    "notes":  "Bitify 1.7.4\n\n- Diwali launch card fixed: aapke sunaye gaye logo/background ke saath popup ab har kholne par aayega.\n- Update dialog se pehle greeting; Later/X se band.\n- Google Sign-In ka desktop auto-link (YouTube session ke baad silent linked).",
+    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.4/Bitify-1.7.4-windows-x64-setup.exe"
 }
