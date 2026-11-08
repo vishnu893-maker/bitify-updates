@@ -1,6 +1,6 @@
 {
     "platform":  "desktop",
-    "version":  "1.7.1",
-    "notes":  "Bitify 1.7.1\n\n- Fixed the in-app download: live progress now works even when the file size is unknown, with Cancel and Retry buttons.\n- The update dialog always has a Cancel button, and closing it never hides the update - use Settings \u003e About \u0026 legal \u003e Check for updates anytime.",
-    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.1/Bitify-1.7.1-windows-x64-setup.exe"
+    "version":  "1.7.2",
+    "notes":  "Bitify 1.7.2\n\n- Fixed \"Download failed: java heap space\": the app now runs with 4x more memory, so the installer download completes.\n- Lighter download streaming and a clearer message if memory is ever short.",
+    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.2/Bitify-1.7.2-windows-x64-setup.exe"
 }
