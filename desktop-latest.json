@@ -1,6 +1,6 @@
 {
     "platform":  "desktop",
-    "version":  "1.7.0",
-    "notes":  "Bitify 1.7.0\n\n- New About \u0026 legal section in Settings: Privacy Policy, Terms \u0026 Conditions and Security.\n- Refreshed logo across the window, home screen, taskbar and tray.\n- New Glass window material: full frosted look, selectable in Appearance.",
-    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.0/Bitify-1.7.0-windows-x64-setup.exe"
+    "version":  "1.7.1",
+    "notes":  "Bitify 1.7.1\n\n- Fixed the in-app download: live progress now works even when the file size is unknown, with Cancel and Retry buttons.\n- The update dialog always has a Cancel button, and closing it never hides the update - use Settings \u003e About \u0026 legal \u003e Check for updates anytime.",
+    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.1/Bitify-1.7.1-windows-x64-setup.exe"
 }
