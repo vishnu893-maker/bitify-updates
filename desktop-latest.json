@@ -1,6 +1,6 @@
 {
     "platform":  "desktop",
-    "version":  "1.7.4",
-    "notes":  "Bitify 1.7.4\n\n- Diwali launch card fixed: aapke sunaye gaye logo/background ke saath popup ab har kholne par aayega.\n- Update dialog se pehle greeting; Later/X se band.\n- Google Sign-In ka desktop auto-link (YouTube session ke baad silent linked).",
-    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.4/Bitify-1.7.4-windows-x64-setup.exe"
+    "version":  "1.7.5",
+    "notes":  "Bitify 1.7.5 for Windows\n\nMessages are here. Chats with friends and family, group chats, a live music feed of what your friends are playing right now, voice notes, GIFs, reactions, replies, forwarding, read receipts and message requests - the same social features the phone has, in a window.\n\nYour listening minutes and your streak now travel with your account instead of with your device. The phone and the PC add up into one number, and the server keeps that number safe instead of losing it when it restarts. The leaderboard shows one row per listener - no more seeing the same person twice under two names.\n\nAlso in this release:\n- The app now remembers which account your listening minutes belong to. A session that quietly expires no longer moves your history into a different place, which is what used to split the phone and the PC apart.\n- A listening history that is too large for a single upload is now sent in parts, so a long history is never quietly dropped.\n- Party invites and their links now point at the new server.\n- One place decides the server address, so the party server, your account, the listening vault and your profile photo can never drift apart and answer from two different places.",
+    "installer":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/desktop-v1.7.5/Bitify-1.7.5-windows-x64-setup.exe"
 }
