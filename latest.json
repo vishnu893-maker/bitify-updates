@@ -1,17 +1,8 @@
 {
     "platform":  "android",
-    "version":  "1.7.2",
-    "notes":  "Diwali special: an animated greeting card, from 7 to 14 November only.\n\n- Listening streaks and total listening minutes now sync across your phone and your PC on the same Google account.\n- New About \u0026 legal section in Settings, with the full Privacy Policy, Terms \u0026 Conditions and Security pages.\n- Smaller, smoother updates.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.2/Bitify-1.7.2.apk",
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.2",
-    "apkSha256":  "826128f65a77c51cf36f41e4131f34b2279c9c49ed1de175f94ac21f79f3d364",
-    "patches":  [
-                    {
-                        "from":  "1.7.1",
-                        "abi":  null,
-                        "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.2/Bitify-1.7.1-to-1.7.2.bsdiff",
-                        "size":  11615170,
-                        "sha256":  "0eee9b73d6bf5b07b3cd4de9a0d90b34719ccb17d9925d115fae181aa53a7754"
-                    }
-                ]
+    "version":  "1.7.3",
+    "notes":  "Bitify 1.7.3\n\nMessages are here. Chats with friends and family, group chats, a live music feed of what your friends are playing right now, voice notes, GIFs, reactions, replies, forwarding, read receipts and message requests - all inside the app, on the phone and on the PC.\n\nYour listening minutes and your streak now travel with your account instead of with your device. The phone and the PC add up into one number, and the server keeps that number safe instead of losing it when it restarts. The leaderboard shows one row per listener - no more seeing the same person twice under two names.\n\nAlso in this release:\n- The app now remembers which account your listening minutes belong to. A session that quietly expires no longer moves your history into a different place, which is what used to split the phone and the PC apart.\n- A listening history that is too large for a single upload is now sent in parts, so a long history is never quietly dropped.\n- Party invites and their links now point at the new server.\n- The streak, the leaderboard and the library card all read from the same merged account total.",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.3/Bitify-1.7.3.apk",
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.3",
+    "apkSha256":  "59bd101b529b87119f6bdb26d6cf6f519af09085e2b268514c1575aa9a011527"
 }
