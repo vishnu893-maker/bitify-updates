@@ -1,8 +1,28 @@
 {
     "platform":  "android",
-    "version":  "1.7.3",
-    "notes":  "Bitify 1.7.3\n\nMessages are here. Chats with friends and family, group chats, a live music feed of what your friends are playing right now, voice notes, GIFs, reactions, replies, forwarding, read receipts and message requests - all inside the app, on the phone and on the PC.\n\nYour listening minutes and your streak now travel with your account instead of with your device. The phone and the PC add up into one number, and the server keeps that number safe instead of losing it when it restarts. The leaderboard shows one row per listener - no more seeing the same person twice under two names.\n\nAlso in this release:\n- The app now remembers which account your listening minutes belong to. A session that quietly expires no longer moves your history into a different place, which is what used to split the phone and the PC apart.\n- A listening history that is too large for a single upload is now sent in parts, so a long history is never quietly dropped.\n- Party invites and their links now point at the new server.\n- The streak, the leaderboard and the library card all read from the same merged account total.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.3/Bitify-1.7.3.apk",
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.3",
-    "apkSha256":  "59bd101b529b87119f6bdb26d6cf6f519af09085e2b268514c1575aa9a011527"
+    "version":  "1.7.4",
+    "notes":  "Bitify 1.7.4\n\nThe app carries the product\u0027s name now, all the way down: the package is com.bitify.music, the party links say bitify:// instead of the old name, and the server calls itself bitify-listen-together. A link shared before the rename still opens the app.\n\nAlso in this release:\n- The update feed names the build for each kind of processor now, and the phone takes the one that fits it: about 71 MB instead of 172 MB. On a phone that difference is the difference between an update and a download that never finishes.\n- The listening minutes, the streak and the leaderboard keep working the way they did: they live with your account, the server keeps them in the database instead of on a disk that a release wipes, and one listener is one row on the board.\n- The privacy policy, the terms and the security page now write to you directly.\n",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4.apk",
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.4",
+    "apkSha256":  "20597e5f03a916acb17dc1917851a8829cebc8d10126b08a0a8b5a2b6111d841",
+    "apks":  [
+                 {
+                     "abi":  "armeabi-v7a",
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm32.apk",
+                     "sha256":  "fe0476cede4b40e34928268eed7f617c9c2a9f04da96ad5e9b656d474d7323e9",
+                     "size":  65503660
+                 },
+                 {
+                     "abi":  "arm64-v8a",
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm64.apk",
+                     "sha256":  "530654bcd4d92df2d738b2c41eef484a6994e0cf6f199ddb65a53464e90f557c",
+                     "size":  75677402
+                 },
+                 {
+                     "abi":  "x86_64",
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-x86_64.apk",
+                     "sha256":  "0fcf45cef884337077a18df195b378d5e80fdcb2b20133ca3aff1f6bc355ed90",
+                     "size":  82254283
+                 }
+             ]
 }
