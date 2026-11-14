@@ -7,12 +7,6 @@
     "apkSha256":  "20597e5f03a916acb17dc1917851a8829cebc8d10126b08a0a8b5a2b6111d841",
     "apks":  [
                  {
-                     "abi":  "armeabi-v7a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm32.apk",
-                     "sha256":  "fe0476cede4b40e34928268eed7f617c9c2a9f04da96ad5e9b656d474d7323e9",
-                     "size":  65503660
-                 },
-                 {
                      "abi":  "arm64-v8a",
                      "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm64.apk",
                      "sha256":  "530654bcd4d92df2d738b2c41eef484a6994e0cf6f199ddb65a53464e90f557c",
@@ -23,6 +17,12 @@
                      "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-x86_64.apk",
                      "sha256":  "0fcf45cef884337077a18df195b378d5e80fdcb2b20133ca3aff1f6bc355ed90",
                      "size":  82254283
+                 },
+                 {
+                     "abi":  "armeabi-v7a",
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm32.apk",
+                     "sha256":  "fe0476cede4b40e34928268eed7f617c9c2a9f04da96ad5e9b656d474d7323e9",
+                     "size":  65503660
                  }
              ]
 }
