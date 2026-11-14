@@ -4,25 +4,25 @@
     "notes":  "Bitify 1.7.4\n\nThe app carries the product\u0027s name now, all the way down: the package is com.bitify.music, the party links say bitify:// instead of the old name, and the server calls itself bitify-listen-together. A link shared before the rename still opens the app.\n\nAlso in this release:\n- The update feed names the build for each kind of processor now, and the phone takes the one that fits it: about 71 MB instead of 172 MB. On a phone that difference is the difference between an update and a download that never finishes.\n- The listening minutes, the streak and the leaderboard keep working the way they did: they live with your account, the server keeps them in the database instead of on a disk that a release wipes, and one listener is one row on the board.\n- The privacy policy, the terms and the security page now write to you directly.\n",
     "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4.apk",
     "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.4",
-    "apkSha256":  "20597e5f03a916acb17dc1917851a8829cebc8d10126b08a0a8b5a2b6111d841",
+    "apkSha256":  "866d9bd29542b2b52bd054c5ca0e37ad9a7ecd9c241a39cac01db8a0e8eddf9f",
     "apks":  [
                  {
                      "abi":  "arm64-v8a",
                      "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm64.apk",
-                     "sha256":  "530654bcd4d92df2d738b2c41eef484a6994e0cf6f199ddb65a53464e90f557c",
-                     "size":  75677402
+                     "sha256":  "cbcff3290ebe64a4e35d5aff84355ae897a3b752d8d4122df1b9d9162c10d67b",
+                     "size":  75695626
                  },
                  {
                      "abi":  "x86_64",
                      "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-x86_64.apk",
-                     "sha256":  "0fcf45cef884337077a18df195b378d5e80fdcb2b20133ca3aff1f6bc355ed90",
-                     "size":  82254283
+                     "sha256":  "94e982744853978e28654b1fb449dd8a31b7a605549113e621833187dca3189e",
+                     "size":  82272507
                  },
                  {
                      "abi":  "armeabi-v7a",
                      "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm32.apk",
-                     "sha256":  "fe0476cede4b40e34928268eed7f617c9c2a9f04da96ad5e9b656d474d7323e9",
-                     "size":  65503660
+                     "sha256":  "9d9fc1655b02e4a6f27e5e6d873f3a6643d34e0732139b445aecd71e957e00fa",
+                     "size":  65521884
                  }
              ]
 }
