@@ -1,28 +1,28 @@
 {
     "platform":  "android",
-    "version":  "1.7.4",
-    "notes":  "Bitify 1.7.4\n\nThe app carries the product\u0027s name now, all the way down: the package is com.bitify.music, the party links say bitify:// instead of the old name, and the server calls itself bitify-listen-together. A link shared before the rename still opens the app.\n\nAlso in this release:\n- The update feed names the build for each kind of processor now, and the phone takes the one that fits it: about 71 MB instead of 172 MB. On a phone that difference is the difference between an update and a download that never finishes.\n- The phone now takes the build that fits its own processor first, so a 64-bit phone gets the 64-bit build and not the 32-bit one.\n- Because the Android package changed name, Android installs this one beside the old app instead of over it. The new app notices the old one and offers once to remove it, so you are not left with two apps wearing the same name. Your account, streak and messages live on the server, so removing the old app loses nothing that matters.\n- The listening minutes, the streak and the leaderboard keep working the way they did: they live with your account, the server keeps them in the database instead of on a disk that a release wipes, and one listener is one row on the board.\n- The privacy policy, the terms and the security page now write to you directly.\n",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4.apk",
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.7.4",
-    "apkSha256":  "866d9bd29542b2b52bd054c5ca0e37ad9a7ecd9c241a39cac01db8a0e8eddf9f",
+    "version":  "1.8.0",
+    "notes":  "Bitify 1.8.0\n\nNew logo. Bitify\u0027s own mark - the equaliser bars on the dark plate - on the launcher icon, the splash screen and in the notification shade.\n\nMessages, rebuilt. A room of its own: a deep-black conversation on the brand backdrop, charcoal tiles, one rose accent. It opens from a Messages button in the top bar now.\n\nPodcasts, now Indian. A new section arranged by kind and language - horror, comedy, business, true crime, news, cricket and more, plus Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi, Bengali and Punjabi - with a Trending in India row. Video episodes play as video; films stay out.\n\nSongs play without the internet. Offline replays now live in the app\u0027s own storage, so Android\u0027s Clear cache no longer wipes them. Clear song cache still frees the space on demand.\n\nFixes. The update check answers honestly - up to date, version ready, or couldn\u0027t check - a video podcast no longer opens in the audio-only player, and back from Messages returns to where you were.\n\nAbout 71 MB on a 64-bit phone (61 MB on 32-bit, 77 MB on x86_64), SHA-256 checked, installs over 1.7.4 - nothing to uninstall.",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.0/Bitify-1.8.0.apk",
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.8.0",
+    "apkSha256":  "8d8e44a12063f6fb0e08352d5eff7b9156a9a2b95cd79560f278370ce966a0af",
     "apks":  [
                  {
                      "abi":  "arm64-v8a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm64.apk",
-                     "sha256":  "cbcff3290ebe64a4e35d5aff84355ae897a3b752d8d4122df1b9d9162c10d67b",
-                     "size":  75695626
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.0/Bitify-1.8.0-arm64.apk",
+                     "sha256":  "ae6b37a8a00285383eee16f359d1820bb7fde28d370234882116396ceb1d8d6a",
+                     "size":  74386800
                  },
                  {
                      "abi":  "x86_64",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-x86_64.apk",
-                     "sha256":  "94e982744853978e28654b1fb449dd8a31b7a605549113e621833187dca3189e",
-                     "size":  82272507
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.0/Bitify-1.8.0-x86_64.apk",
+                     "sha256":  "2aabb37d8202ab700a8341a01d4ed998c744182d5ea0fc5d48324bd8be63c502",
+                     "size":  80963681
                  },
                  {
                      "abi":  "armeabi-v7a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.7.4/Bitify-1.7.4-arm32.apk",
-                     "sha256":  "9d9fc1655b02e4a6f27e5e6d873f3a6643d34e0732139b445aecd71e957e00fa",
-                     "size":  65521884
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.0/Bitify-1.8.0-arm32.apk",
+                     "sha256":  "230fb52d0f9e5d73a15f5573ad488c6dd15a5855e7615078b9c17662fb1eb6e8",
+                     "size":  64213058
                  }
              ]
 }
