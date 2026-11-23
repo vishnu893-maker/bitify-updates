@@ -1,28 +1,28 @@
 {
     "platform":  "android",
-    "version":  "1.8.2",
-    "notes":  "Bitify 1.8.2\n\nThe community count moves to the middle. Home\u0027s people-who-have-used-Bitify badge now sits dead-centre in the top bar, between the logo and the buttons, instead of tucked beside the update arrow. Same number, same server, just where the eye looks for it.\n\nFull APK per ABI, no delta patch for this pair.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.2/Bitify-1.8.2.apk",
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.8.2",
-    "apkSha256":  "bd17b3bfdd3fcb535ca19fc2a869f5f68cf33d18893068e4b9b9d32b629c355f",
+    "version":  "1.8.3",
+    "notes":  "Messages reach you even with the app closed, and the app opens with motion from the first frame.\n\n- **Messages now send real system notifications.** A WhatsApp-style alert with sound arrives even when Bitify is in the background. Tap it to open the app straight into that conversation. Muted chats stay quiet, a conversation you are already reading does not buzz, and marking it read clears the alert.\n- **A new cold-start splash that moves from the very first frame.** The equaliser mark, the Bitify name and the three dots are all there from the start, breathing together in one calm rhythm. No logo background swap, tighter spacing, and the same picture in Android 12+\u0027s system splash.\n- **The update popup has been rebuilt.** Live download percentage with a progress bar, a clean What\u0027s New panel, Download \u0026 Update and Remind Me Later, retry or releases-page links on failure, and an automatic hand-off to the installer when the file is ready.\n- **First-run Terms \u0026 Conditions** gate a brand-new install before anything else.\n- **Admin controls ship in this build**, so the server Bitify talks to can be chosen from the local admin panel.\n",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.3/Bitify-1.8.3.apk",
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.8.3",
+    "apkSha256":  "8637e2eac6c83c97f8f4ff5848a31c61fa5efc4232fffa59d1d26e38a746473c",
     "apks":  [
                  {
                      "abi":  "arm64-v8a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.2/Bitify-1.8.2-arm64.apk",
-                     "sha256":  "4532da8af22e32788a48b0b1764ce39324fab6b516fe9affd0ff4eeefef4e1a3",
-                     "size":  74388452
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.3/Bitify-1.8.3-arm64.apk",
+                     "sha256":  "4028b3001acb15931e889484a12ef6a48dfb8441e6f1b7f6a1f602ed30309198",
+                     "size":  74321523
                  },
                  {
                      "abi":  "x86_64",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.2/Bitify-1.8.2-x86_64.apk",
-                     "sha256":  "0a2e761bba97035bd10e772f0102b94ba12e533267e5ebf4975c13d220cf8fb2",
-                     "size":  80965333
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.3/Bitify-1.8.3-x86_64.apk",
+                     "sha256":  "63a5c6d717350bb28d88d7497f7df48619b285744e701fc13bea145bed5ad393",
+                     "size":  80898404
                  },
                  {
                      "abi":  "armeabi-v7a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.2/Bitify-1.8.2-arm32.apk",
-                     "sha256":  "f2ab5571ebce90cace2db93813afb0c6514a048eb159f84da9ad7510a68b8c81",
-                     "size":  64214710
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.3/Bitify-1.8.3-arm32.apk",
+                     "sha256":  "bcbd4dd741e4145fb027dc12bb34002d13cb8e251e009d049e157f5da51f2c90",
+                     "size":  64147781
                  }
              ]
 }
