@@ -1,28 +1,28 @@
 {
     "platform":  "android",
-    "version":  "1.8.4",
-    "notes":  "Messages now has a rose-and-red look in light and dark mode. Fixed keyboard/composer layout, overlay taps and chat scroll behavior. Notifications now deduplicate incoming messages, show recent history and support inline replies.",
-    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.4/Bitify-1.8.4.apk",
-    "apkSha256":  "1d2d7e770456fb166d7e3098e9bcc1bd03bc907dd77c69d10097d56e005c5b82",
+    "version":  "1.8.5",
+    "notes":  "Fixed the Android 12â€“14 launch crash. Artwork-driven backdrops and darker tinted navigation, mini-player and Settings surfaces. Messages remembers announcements; streaks and leaderboard refreshed; Play the best part stays off by default; listening history preserves the higher total.",
+    "apk":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/untagged-8faf94affecc6ccd73ad/Bitify-1.8.5.apk",
+    "apkSha256":  "e0947fba5575ac39d8c600504b05d9fa58d714ec6dc5f851ad3a1aa452a7145d",
     "apks":  [
                  {
                      "abi":  "arm64-v8a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.4/Bitify-1.8.4-arm64.apk",
-                     "sha256":  "13937021bc2035a65c3ed72b0e75758ce2b2481cb0973397643884a0d086bbf9",
-                     "size":  74339127
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/untagged-8faf94affecc6ccd73ad/Bitify-1.8.5-arm64.apk",
+                     "sha256":  "1a6594ebd2c6f59f06c8aa2b1390d3a52a6e46b9b93bf25fd098fc369634201a",
+                     "size":  74363007
                  },
                  {
                      "abi":  "x86_64",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.4/Bitify-1.8.4-x86_64.apk",
-                     "sha256":  "9eedcfc24e65d5516dc4ba223071d630a1f431fe020267931a6ee12ed4547272",
-                     "size":  80916008
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/untagged-8faf94affecc6ccd73ad/Bitify-1.8.5-x86_64.apk",
+                     "sha256":  "a699c0b1f93ebfa51e108d57954dfdd7db1849cb565fbb209698d0fa9204ca38",
+                     "size":  80939888
                  },
                  {
                      "abi":  "armeabi-v7a",
-                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/v1.8.4/Bitify-1.8.4-arm32.apk",
-                     "sha256":  "c25099e39904ef4f8e6ff1726ecfca92b5ffdef28310b5c1c340c91f23818a0f",
-                     "size":  64165385
+                     "url":  "https://github.com/vishnu893-maker/bitify-updates/releases/download/untagged-8faf94affecc6ccd73ad/Bitify-1.8.5-arm32.apk",
+                     "sha256":  "b49088d9ce171f94d73368c43f1e244d0b76220d414ae4aa5a63b0d917a6ba9e",
+                     "size":  64189265
                  }
              ],
-    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.8.4"
+    "page":  "https://github.com/vishnu893-maker/bitify-updates/releases/tag/v1.8.5"
 }
